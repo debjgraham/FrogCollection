@@ -13,6 +13,7 @@
 		AD2B93661F3F731D0068E01B /* FrogCollector.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD2B93641F3F731D0068E01B /* FrogCollector.xcdatamodeld */; };
 		AD2B93681F3F731D0068E01B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2B93671F3F731D0068E01B /* Assets.xcassets */; };
 		AD2B936B1F3F731D0068E01B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD2B93691F3F731D0068E01B /* LaunchScreen.storyboard */; };
+		AD2B93731F3F7F100068E01B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B93721F3F7F100068E01B /* GameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AD2B93671F3F731D0068E01B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD2B936A1F3F731D0068E01B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD2B936C1F3F731D0068E01B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD2B93721F3F7F100068E01B /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				AD2B935D1F3F731D0068E01B /* AppDelegate.swift */,
 				AD2B935F1F3F731D0068E01B /* ViewController.swift */,
+				AD2B93721F3F7F100068E01B /* GameViewController.swift */,
 				AD2B93611F3F731D0068E01B /* Main.storyboard */,
 				AD2B93671F3F731D0068E01B /* Assets.xcassets */,
 				AD2B93691F3F731D0068E01B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD2B93731F3F7F100068E01B /* GameViewController.swift in Sources */,
 				AD2B93601F3F731D0068E01B /* ViewController.swift in Sources */,
 				AD2B935E1F3F731D0068E01B /* AppDelegate.swift in Sources */,
 				AD2B93661F3F731D0068E01B /* FrogCollector.xcdatamodeld in Sources */,

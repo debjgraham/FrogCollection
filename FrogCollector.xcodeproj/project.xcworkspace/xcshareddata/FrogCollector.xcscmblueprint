@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CC8A6D6B14EB26AA68F2FD94EB35DB248B3665DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC8A6D6B14EB26AA68F2FD94EB35DB248B3665DE" : 9223372036854775807,
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7106E8D-50EC-44A4-A0AE-4D1D81452D0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC8A6D6B14EB26AA68F2FD94EB35DB248B3665DE" : "FrogCollector\/",
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FrogCollector",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FrogCollector.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/debjgraham\/FreakingiPhoneAppiOS10Swift3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "126EA57CB0176951EFA07319CEA0CAE3EE9290B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/debjgraham\/FrogCollection.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC8A6D6B14EB26AA68F2FD94EB35DB248B3665DE"
+    }
+  ]
+}
